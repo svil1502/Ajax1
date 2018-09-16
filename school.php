@@ -7,11 +7,11 @@
 <table>
     <tr>
         <td>Your Name:</td>
-        <td><input type="text" name="name" id="name" /><td>
+        <td><input type="text" name="name" id="name" value="Sveta"/><td>
     </tr>
     <tr>
         <td>Roll Number:</td>
-        <td><input type="text" name="rno" id="rno" /><td>
+        <td><input type="text" name="rno" id="rno" value="7"/><td>
     </tr>
     <tr>
         <td></td>
